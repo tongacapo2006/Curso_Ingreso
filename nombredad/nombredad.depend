@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1566606506 source:d:\pablocapo\nombredad\main.c
+	<stdio.h>
+	<stdlib.h>
+
